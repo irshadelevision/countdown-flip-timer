@@ -47,7 +47,7 @@ countdown-flip-timer/
   - `new Date().setHours(new Date().getHours() + 24)`
 - Adjust animation speed in `styles.css`:
   - `flip-top` and `flip-bottom` keyframe durations
-  - interval timing in `setInterval(...)`
+  - update frequency by changing the `250` value in `setInterval(..., 250)`
 - Update colors and typography in `styles.css`.
 
 ## Browser Support
