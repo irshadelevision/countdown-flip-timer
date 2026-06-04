@@ -39,7 +39,7 @@ countdown-flip-timer/
 ## Run Locally
 
 1. Clone or download the repository.
-2. Open `/tmp/workspace/irshadelevision/countdown-flip-timer/index.html` in any modern browser.
+2. Open `index.html` in any modern browser.
 
 ## Customization
 
