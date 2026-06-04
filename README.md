@@ -45,7 +45,7 @@ countdown-flip-timer/
 
 - Change countdown length in `script.js`:
   - `new Date().setHours(new Date().getHours() + 24)`
-  - update frequency by changing the `250` value in `setInterval(..., 250)`
+  - Update frequency by changing the `250` value in `setInterval(..., 250)`
 - Adjust animation speed in `styles.css`:
   - `flip-top` and `flip-bottom` keyframe durations
 - Update colors and typography in `styles.css`.
